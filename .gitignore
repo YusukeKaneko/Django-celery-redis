@@ -1,0 +1,12 @@
+*.log
+*.pyc
+*~
+/.vscode
+__pycache__
+myvenv
+db.sqlite3
+.DS_Store
+celerybeat-schedule.dir
+celerybeat-schedule.dat
+celerybeat-schedule.bak
+
